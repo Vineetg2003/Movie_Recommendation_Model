@@ -13,8 +13,6 @@ A smart **content-based movie recommendation system** built using **Scikit-learn
 - 🖥️ Modern dark-mode UI with animated movie cards
 - 💡 Real-time interaction with Streamlit
 - 📦 Modular structure: easy to extend and maintain
-- 🖼️ UI screenshot: [`assets/image.png`](assets/image.png)
-
 ---
 
 ## 📁 Project Structure
