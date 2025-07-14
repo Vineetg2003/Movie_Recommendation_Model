@@ -23,8 +23,8 @@ Movie_Recommendation_Model/
 ├── app.py # Streamlit frontend app
 ├── recommender.py # Recommendation engine logic
 ├── data/
-│ └── Movies Recommendation.csv # Dataset with 4761 movie records
+│ └── Movies Recommendation.csv # Dataset with 4,761 movie records
 ├── assets/
 │ └── image.png # UI preview image
-├── README.md # You're here
+└── README.md # This file in markdown
 
