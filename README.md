@@ -23,8 +23,27 @@ Movie_Recommendation_Model/
 ├── app.py # Streamlit frontend app
 ├── recommender.py # Recommendation engine logic
 ├── data/
-│ └── Movies Recommendation.csv # Dataset with 4,761 movie records
+│   └── Movies Recommendation.csv # Dataset with 4,761 movie records
 ├── assets/
-│ └── image.png # UI preview image
+│   └── image.png # UI preview image
 └── README.md # This file in markdown
 
+
+---
+
+## 🧠 Tech Stack
+
+- [Python 3.9+](https://www.python.org/)
+- [Streamlit](https://streamlit.io/)
+- [Pandas](https://pandas.pydata.org/)
+- [Scikit-learn](https://scikit-learn.org/)
+
+---
+
+## 🔧 Getting Started
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/your-username/Movie_Recommendation_Model.git
+cd Movie_Recommendation_Model
