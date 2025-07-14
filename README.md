@@ -17,14 +17,16 @@ A smart **content-based movie recommendation system** built using **Scikit-learn
 
 ## 📁 Project Structure
 
+```text
 Movie_Recommendation_Model/
-├── app.py # Streamlit frontend app
-├── recommender.py # Recommendation engine logic
+├── app.py
+├── recommender.py
 ├── data/
-│   └── Movies Recommendation.csv # Dataset with 4,761 movie records
+│   └── Movies Recommendation.csv
 ├── assets/
-│   └── image.png # UI preview image
-└── README.md # This file in markdown
+│   └── image.png
+└── README.md
+
 
 
 ---
