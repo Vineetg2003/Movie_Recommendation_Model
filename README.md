@@ -26,8 +26,7 @@ Movie_Recommendation_Model/
 ├── assets/
 │   └── image.png
 └── README.md
-
-``
+```
 
 ---
 
@@ -47,3 +46,16 @@ Movie_Recommendation_Model/
 ```bash
 git clone https://github.com/your-username/Movie_Recommendation_Model.git
 cd Movie_Recommendation_Model
+pip install streamlit pandas scikit-learn
+streamlit run app.py
+```
+
+### 📝 Dataset
+- Location: data/Movies Recommendation.csv
+- 📊 Contains 4,761 movies
+- 🔹 Columns:
+
+Movie_Title, Movie_Genre, Movie_Tagline, Movie_Keywords, Movie_Director, Movie_Cast, etc.
+
+- Note: Movie_Title is renamed internally to Movie_Name.
+
