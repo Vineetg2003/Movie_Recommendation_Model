@@ -1,22 +1,30 @@
-# Movie Recommendation System
+# 🎬 Movie Recommendation System
 
-## Overview
+![App UI](assets/image.png)
 
-This project implements a simple movie recommendation system using various techniques including Numpy, Pandas, Difflib, TF-IDF Vectorizer, and Cosine Similarity. The system suggests movies based on user input or a selected movie, finding similarities in movie descriptions.
+A smart **content-based movie recommendation system** built using **Scikit-learn**, **TF-IDF**, and **Streamlit**. It recommends movies based on **genre**, **cast**, **keywords**, **tagline**, and **director** — trained on a dataset of **4,761 movies**.
 
-## Installation
+---
 
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/movie-recommendation-system.git
-2. pip install numpy pandas scikit-learn
-3. python main.py
+## 🚀 Features
 
-# Dependencies
-NumPy: Used for numerical operations and working with arrays.
-Pandas: Used for data manipulation and analysis.
-scikit-learn: Used for TF-IDF Vectorization and Cosine Similarity calculation.
-Difflib: Used for text similarity comparison.
+- ✅ Content-based movie recommendations using TF-IDF + cosine similarity
+- 🎯 Based on genre, cast, tagline, keywords, and director
+- 🖥️ Modern dark-mode UI with animated movie cards
+- 💡 Real-time interaction with Streamlit
+- 📦 Modular structure: easy to extend and maintain
+- 🖼️ UI screenshot: [`assets/image.png`](assets/image.png)
 
-# How it Works
-The movie recommendation system uses TF-IDF Vectorization and Cosine Similarity to calculate the similarity between movies based on their descriptions. User input or a selected movie serves as the seed for recommendations.
+---
+
+## 📁 Project Structure
+
+Movie_Recommendation_Model/
+├── app.py # Streamlit frontend app
+├── recommender.py # Recommendation engine logic
+├── data/
+│ └── Movies Recommendation.csv # Dataset with 4761 movie records
+├── assets/
+│ └── image.png # UI preview image
+├── README.md # You're here
+
