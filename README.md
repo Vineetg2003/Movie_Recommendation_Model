@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation System
 
-![App UI](https://github.com/Vineetg2003/Movie_Recommendation_Model/blob/master/app.py)
+![App UI](https://github.com/Vineetg2003/Movie_Recommendation_Model/blob/master/image.png)
 
 A smart **content-based movie recommendation system** built using **Scikit-learn**, **TF-IDF**, and **Streamlit**. It recommends movies based on **genre**, **cast**, **keywords**, **tagline**, and **director** — trained on a dataset of **4,761 movies**.
 
