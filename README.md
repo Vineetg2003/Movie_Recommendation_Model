@@ -59,3 +59,10 @@ Movie_Title, Movie_Genre, Movie_Tagline, Movie_Keywords, Movie_Director, Movie_C
 
 - Note: Movie_Title is renamed internally to Movie_Name.
 
+### 💡 Future Enhancements
+
+- ✅ Integrate TMDB API for posters
+- ✅ Add filters by genre, language, year
+- ✅ Keyword-based search
+- ✅ Option to download recommendations
+- ✅ Deploy on Streamlit Cloud / Hugging Face Spaces
